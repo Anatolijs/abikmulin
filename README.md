@@ -1,5 +1,8 @@
 # abikmulin
 abikmulin
 
-My real name in Latvian is Bikmulins.
-One fail in github detected.
+http://job4j.ru/
+
+Хочу на этом ресурсе, в течении 2018 года, повысить свои теоретические знания и 
+
+практические навыки с уровня Джуниор до Сениор Джуниор ))) 
