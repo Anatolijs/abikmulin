@@ -4,7 +4,7 @@ package ru.job4j;
 
 /**
 
-* Класс для арифметических операций.
+* Class for arithmetic operations.
 */
 
 
@@ -12,7 +12,8 @@ public class Calculate {
 
 
 /**
-* Конструктор для вывода строки в консоль.
+
+* The constructor to output line in console .
 */
 
    public static void main (String args[]) {
